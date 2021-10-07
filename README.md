@@ -19,11 +19,13 @@ Output -> -1
 - Hoisting
 - Redeclaração
 - Reatribuição
+- 
 ![Screenshot_22](https://user-images.githubusercontent.com/72028645/136443010-d616405d-88d7-4499-b22e-e118e8a91856.png)
 
 ## Constantes
 - Declarada em SNAKE_UPPER_CASE
 - Escopo de bloco
 - Não faz hoisting
+
 ![Screenshot_23](https://user-images.githubusercontent.com/72028645/136443178-ba2b74e2-1009-4771-833b-d32e4a3ba9a7.png)
 
