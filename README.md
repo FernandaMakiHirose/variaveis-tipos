@@ -19,7 +19,7 @@ Output -> -1
 - Hoisting
 - Redeclaração
 - Reatribuição
-- 
+ 
 ![Screenshot_22](https://user-images.githubusercontent.com/72028645/136443010-d616405d-88d7-4499-b22e-e118e8a91856.png)
 
 ## Constantes
